@@ -460,6 +460,18 @@ What to include (so I can help fast) # Names involved (include maiden names if k
     </item>
     
     <item>
+      <title>Start Here</title>
+      <link>http://localhost:1313/start-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/start-here/</guid>
+      <description>Welcome! This site is a living archive of the Wheeler family story—built from records, photos, and write-ups. If you’re new here, this page will point you to the best on-ramps.
+Quick paths # Browse recent research: Posts Read narrative write-ups: Stories Search surnames & places: Search Learn what this project is: About Core families & recurring surnames # This site centers on the Wheeler family, with frequent research into connected and collateral lines:
+</description>
+      
+    </item>
+    
+    <item>
       <title>Wheeler Genealogy</title>
       <link>http://localhost:1313/stories/first-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
