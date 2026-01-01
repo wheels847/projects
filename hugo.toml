@@ -5,6 +5,7 @@ theme = "blowfish"
 
 [params]
   mainSections = ["posts"]
+  enableSearch = true
 
   [markup.goldmark.renderer]
   unsafe = true
