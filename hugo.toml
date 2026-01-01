@@ -17,7 +17,7 @@ theme = "blowfish"
 
 [params.homepage]
   layout = "background"
-  homepageImage = "img/home-hero.jpg"  # from /assets/img/
+  homepageImage = "img/home-hero.jpg"
   showRecent = true
   showRecentItems = 9
   showMoreLink = true
@@ -25,6 +25,7 @@ theme = "blowfish"
   cardView = true
   cardViewScreenWidth = true
   layoutBackgroundBlur = true
+
 
 [menu]
   [[menu.main]]
