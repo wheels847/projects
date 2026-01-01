@@ -30,6 +30,11 @@ theme = "blowfish"
 
 [menu]
   [[menu.main]]
+    name = "Start Here"
+    pageRef = "/start-here/"
+    weight = 12
+ 
+  [[menu.main]]
     name = "Home"
     pageRef = "/"
     weight = 10

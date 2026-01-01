@@ -28,6 +28,8 @@ description: "Photo essays, document deep-dives, and research notes as I build o
   Start here: the <strong>52 Ancestors</strong> series, the Wheeler line, and the research trail behind the conclusions.
 </p>
 
+<a href="/start-here/" style="background:rgba(255,255,255,.14); color:#fff; padding:10px 14px; border-radius:12px; font-weight:800; text-decoration:none; border:1px solid rgba(255,255,255,.22);">Start Here</a>
+
 </div>
 
 <br/>
