@@ -12,6 +12,9 @@ theme = "blowfish"
   [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
+[params.homepage]
+  showRecent = true
+  showRecentItems = 6
 
 
 [menu]
