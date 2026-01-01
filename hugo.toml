@@ -5,3 +5,24 @@ theme = "blowfish"
 
 [params]
   mainSections = ["stories"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Stories"
+    pageRef = "/stories/"
+    weight = 20
+
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact/"
+    weight = 40
