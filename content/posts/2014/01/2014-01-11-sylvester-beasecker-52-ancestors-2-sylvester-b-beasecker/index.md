@@ -11,7 +11,7 @@ tags:
   - "wheeler"
 ---
 
-[![Image](images/sylbeasecker_young.jpg)](http://wheels847.wordpress.com/wp-content/uploads/2014/01/sylbeasecker_young.jpg)
+![Image](images/sylbeasecker_young.jpg)
 
 While we are talking about the Beaseckers, lets talk about one of the more interesting men in my family tree based upon what I have found out about him.  Sylvester B. Beasecker was born 06 Feb 1859 in Goshen, Elkhart, Indiana.  Sylvester is the son of Samuel Beasecker and Martha Ann Bowman.  Over the course of his life, Sylvester had four (4) wives, owned several businesses and lived in several different states to include Illinois, Indiana, Minnesota and Georgia.
 
@@ -19,4 +19,4 @@ I am a descendent of Sylvester through his second wife, Katharine Kinney (b. 11 
 
 Sylvester passed away on 01 May 1933 in Minnesota while he was visiting his daughter, Mae Beasecker Waters.
 
-[![Image](images/sylvesterbeasecker_photo.jpg)](http://wheels847.wordpress.com/wp-content/uploads/2014/01/sylvesterbeasecker_photo.jpg)
+![Image](images/sylvesterbeasecker_photo.jpg)

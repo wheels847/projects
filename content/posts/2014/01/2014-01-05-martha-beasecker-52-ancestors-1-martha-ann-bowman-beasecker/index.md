@@ -27,4 +27,4 @@ Martha and Samuel had five children (William J, Sylvester B, Alice E, Amanda N a
 
 Alice Beasecker married Allen Bemenderfer 26 Sep 1883.  Their daughter Florence Bemenderfer (b. 08 Mar 1885, d. 06 Mar 1962) married Christian M. Wiese (b. 17 Aug 1884, d. 25 Nov 1967).  Armed with the correct surname, I was able to locate Martha's parents, John F. Bowman (b. 1816, d. 1856) and Nancy Stover (b. 1819, d. unknown).
 
-\[caption id="attachment\_13" align="alignleft" width="225"\][![Samuel & Martha Beasecker](images/img_1322.jpg)](http://wheels847.wordpress.com/wp-content/uploads/2014/01/img_1322.jpg) Samuel & Martha Beasecker\[/caption\]
+![Samuel & Martha Beasecker](images/img_1322.jpg) Samuel & Martha Beasecker

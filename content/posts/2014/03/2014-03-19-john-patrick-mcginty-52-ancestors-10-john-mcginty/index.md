@@ -13,11 +13,11 @@ tags:
 
 My maternal grandfather is John Patrick McGinty (b. 24 May 1905, Chicago, IL; d. 01 Nov 1962, Chicago, IL) who was the eldest son of Michael McGinty and Nellie Carolan.
 
-John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father's footsteps working as a plumber. [![John Patrick McGinty](images/jpmcgintyncar.jpg)](http://wheels847.wordpress.com/wp-content/uploads/2014/03/jpmcgintyncar.jpg)
+John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father's footsteps working as a plumber. ![John Patrick McGinty](images/jpmcgintyncar.jpg)
 
 John eventually strayed from this line of work and got a job as a clerk at AT&T in 1925. Aside from working as a plumber, this is the only place that John will work his entire life. John worked at AT&T for 37 years as an accountant before retiring.
 
-[![jpmcginty&wife_photo](images/jpmcgintywife_photo.jpg)](http://wheels847.wordpress.com/wp-content/uploads/2014/03/jpmcgintywife_photo.jpg)
+![jpmcginty&wife_photo](images/jpmcgintywife_photo.jpg)
 
  
 

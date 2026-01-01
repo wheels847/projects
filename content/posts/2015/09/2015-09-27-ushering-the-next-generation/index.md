@@ -9,4 +9,4 @@ In addition, NGGN is helping societies understand that the way that we have hist
 
 I was so impressed with NGGN that I volunteered to help.  Due to my calendar, right now I will be serving as a Community Liaison.  I will be attending genealogy meetings and conferences and proudly waving the NGGN flag.
 
-\[caption id="attachment\_200" align="alignleft" width="304"\][![I am NextGen](images/nggn.jpg)](https://wheels847.wordpress.com/wp-content/uploads/2015/01/nggn.jpg) I am NextGen\[/caption\]
+![I am NextGen](images/nggn.jpg) I am NextGen
