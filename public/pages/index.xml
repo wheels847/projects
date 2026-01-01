@@ -1,5 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Wheeler Genealogy</title><link>https://www.wheelergenealogy.com/pages/</link><description>Recent content in Pages on Wheeler Genealogy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Sun, 24 Oct 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.wheelergenealogy.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Wheeler Genealogy</title><link>https://www.wheelergenealogy.com/pages/2010/10/2010-10-24-about/</link><pubDate>Sun, 24 Oct 2010 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/pages/2010/10/2010-10-24-about/</guid><description>Wheeler Genealogy is a blog about the Wheeler and McGinty ancestors and families. We will look at the history of the lines and where the families come from.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Wheeler Genealogy</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Wheeler Genealogy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 24 Oct 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wheeler Genealogy</title>
+      <link>http://localhost:1313/pages/2010/10/2010-10-24-about/</link>
+      <pubDate>Sun, 24 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/2010/10/2010-10-24-about/</guid>
+      <description>Wheeler Genealogy is a blog about the Wheeler and McGinty ancestors and families. We will look at the history of the lines and where the families come from.
 About the author
-My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20 years. I am currently active in the SAR (Sons of the American Revolution), MCIGS (McHenry County Illinois Genealogy Society) and the BOMC (Baronial Order of the Magna Carta). Most of my ancestry in focused n New England, Pennsylvania and the Midwest.</description></item><item><title>Wheeler Genealogy</title><link>https://www.wheelergenealogy.com/pages/2010/10/about/</link><pubDate>Sat, 23 Oct 2010 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/pages/2010/10/about/</guid><description>Wheeler Genealogy is a blog about the Wheeler and McGinty ancestors and families. We will look at the history of the lines and where the families come from.
+My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20 years. I am currently active in the SAR (Sons of the American Revolution), MCIGS (McHenry County Illinois Genealogy Society) and the BOMC (Baronial Order of the Magna Carta). Most of my ancestry in focused n New England, Pennsylvania and the Midwest.
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Wheeler Genealogy</title>
+      <link>http://localhost:1313/pages/2010/10/about/</link>
+      <pubDate>Sat, 23 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/2010/10/about/</guid>
+      <description>Wheeler Genealogy is a blog about the Wheeler and McGinty ancestors and families. We will look at the history of the lines and where the families come from.
 About the author
-My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20 years. I am currently active in the SAR (Sons of the American Revolution), MCIGS (McHenry County Illinois Genealogy Society) and the BOMC (Baronial Order of the Magna Carta). Most of my ancestry in focused n New England, Pennsylvania and the Midwest.</description></item></channel></rss>
+My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20 years. I am currently active in the SAR (Sons of the American Revolution), MCIGS (McHenry County Illinois Genealogy Society) and the BOMC (Baronial Order of the Magna Carta). Most of my ancestry in focused n New England, Pennsylvania and the Midwest.
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
