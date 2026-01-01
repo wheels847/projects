@@ -14,9 +14,6 @@ jobs:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
-    defaults:
-      run:
-        working-directory: ./projects
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,7 +36,7 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_KIND_SEA_0D8F3AF10 }}
           action: "upload"
-          app_location: "projects/public"
+          app_location: "public"
           api_location: ""
           output_location: ""
           skip_app_build: true
