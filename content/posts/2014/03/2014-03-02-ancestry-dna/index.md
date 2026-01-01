@@ -17,7 +17,7 @@ In 2005, using DNA for genealogy was extremely new and unless you had some exper
 
 Ancestry.com has since added DNA testing and the autosomal DNA which allows me to get DNA results from both my mother and father's ancestry (my previous two tests only had results from my father's line).
 
-![Screen Shot 2014-03-02 at 2.00.42 PM](images/screen-shot-2014-03-02-at-2-00-42-pm.png)After completing the swab and waiting for the results for about 4 weeks, the results were available within my Ancestry.com account.
+![Screen Shot 2014-03-02 at 2.00.42 PM](screen-shot-2014-03-02-at-2-00-42-pm.png)After completing the swab and waiting for the results for about 4 weeks, the results were available within my Ancestry.com account.
 
 As you can see from the image, the results provided some insight as to where my ancestors came from (which all eventually leads back to Africa).  My results indicated that the majority of my ancestry (66%) was from Ireland.  Another 23% made up ancestry from England, Germany, France and other western European nations.  Ancestry.com does a great job of explaining how the estimates are determined and presenting various different views into the information.  A separate page provides links to cousins found on Ancestry.com.
 

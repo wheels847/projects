@@ -9,4 +9,4 @@ Many know that were it not for the research of my Aunt Hazel (Wheeler, Hazel b.
 
 The information on the document is very basic.  However, keep into consideration that this was my first source when I started genealogy when books like _Evidence Explained_ by Elizabeth Shown Mills didn't exist so my citation of this source was less than perfect.  Also, when I first started I was interested primarily in vitals (birth, marriage, death) and didn't include some of the other information in the document.  I also had a few mistakes which I was able to correct.
 
-![Tuttle Pedigree by Hazel Wheeler](images/tuttlepedi.jpg) Tuttle Pedigree by Hazel Wheeler
+![Tuttle Pedigree by Hazel Wheeler](tuttlepedi.jpg) Tuttle Pedigree by Hazel Wheeler

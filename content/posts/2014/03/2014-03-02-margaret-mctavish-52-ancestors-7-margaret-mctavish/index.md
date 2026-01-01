@@ -29,6 +29,6 @@ Margaret and Andrew were living in Fond du Lac from 1855 to 1874 based upon the 
 
 In 1874, we see Margaret, Andrew and the family leave Fond du Lac.  While it is probable that they were in or around Chicago, we don't see them in census records until 1890.  It was about this time, on 17 Jan 1890, that Margaret (nee McTavish) Kinney passed away.  Cause of death was meningitis.  Margaret passed away at 11 Maplewood Avenue, Chicago, IL.  This was not her residence (most likely the residence of one of her children) as Margaret and Andrew were living at 412 Park Avenue, Chicago, IL at the time of her death.  The death certificate issued by Cook County indicates that Margaret was only a residence of the state for one year prior to her passing.
 
-![margaretmctavish_photo](images/margaretmctavish_photo.jpg)While Margaret passed away in Chicago, like Andrew her remains were sent by train back to Fond du Lac.  A service was held in Fond du Lac at St. Joseph's church.  We are still attempting to determine where she was buried.
+![margaretmctavish_photo](margaretmctavish_photo.jpg)While Margaret passed away in Chicago, like Andrew her remains were sent by train back to Fond du Lac.  A service was held in Fond du Lac at St. Joseph's church.  We are still attempting to determine where she was buried.
 
 Where was Margaret and her family from 1874 to 1889?  It is one of the many questions that is yet to be answered when it comes to Margaret's past.

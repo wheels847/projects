@@ -11,7 +11,7 @@ tags:
 
 I am currently in a genealogy certificate class at Boston University. One of our first projects was to select a family and review the 1920 and 1930 census for that family. I have reviewed lots of census records over the years but I don't know that I have looked at them in quite this way before.
 
-![michaelmcginty_photo](images/michaelmcginty_photo.jpg)Michael McGinty was born 22 Oct 1871 in Bellageheer, Mohill, Leitrim, Ireland. Michael was the son of Michael Ginty (b. abt. 1831 in Leitrim, Ireland) and Elizabeth McGarry.
+![michaelmcginty_photo](michaelmcginty_photo.jpg)Michael McGinty was born 22 Oct 1871 in Bellageheer, Mohill, Leitrim, Ireland. Michael was the son of Michael Ginty (b. abt. 1831 in Leitrim, Ireland) and Elizabeth McGarry.
 
 According to family stories, Michael came to the United States about the 'Ethiopia' in 1893. I have yet to be able to confirm or refute this as I have been unable to find him on any manifests. Census records and other documents have him immigrating to the United States anywhere from 1883 to 1893. It's also unclear as to what port he would of come into. However, family stories go on to state that Michael traveled from Minnesota to Chicago in yellow corduroys (an indication of being poor). He hitch hiked to Chicago which once in Chicago he got a job as a plumber.
 
