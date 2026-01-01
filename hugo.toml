@@ -12,10 +12,19 @@ theme = "blowfish"
   [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
-[params.homepage]
-  showRecent = true
-  showRecentItems = 6
+[params.header]
+  layout = "fixed-fill-blur"
 
+[params.homepage]
+  layout = "background"
+  homepageImage = "img/home-hero.jpg"  # from /assets/img/
+  showRecent = true
+  showRecentItems = 9
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
+  cardView = true
+  cardViewScreenWidth = true
+  layoutBackgroundBlur = true
 
 [menu]
   [[menu.main]]
