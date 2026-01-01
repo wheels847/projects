@@ -4,7 +4,7 @@ description: "Photo essays, document deep-dives, and research notes as I build o
 ---
 
 <div style="
-  background: linear-gradient(rgba(11,18,32,.75), rgba(11,18,32,.85)),
+  background: linear-gradient(rgba(11,18,32,.65)), rgba(11,18,32,.85)),
               url('/img/hero.jpg') center/cover no-repeat;
   border-radius: 18px;
   padding: 64px 40px;

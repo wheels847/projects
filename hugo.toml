@@ -25,7 +25,7 @@ theme = "blowfish"
   cardView = true
   cardViewScreenWidth = true
   layoutBackgroundBlur = true
-
+  disableHeroImageFilter = false
 
 [menu]
   [[menu.main]]
