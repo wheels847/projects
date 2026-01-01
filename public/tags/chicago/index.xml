@@ -1,3 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chicago on Wheeler Genealogy</title><link>https://www.wheelergenealogy.com/tags/chicago/</link><description>Recent content in Chicago on Wheeler Genealogy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 19 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://www.wheelergenealogy.com/tags/chicago/index.xml" rel="self" type="application/rss+xml"/><item><title>John Patrick McGinty (52 Ancestors, #10 John McGinty)</title><link>https://www.wheelergenealogy.com/2014/03/19/john-patrick-mcginty-52-ancestors-%2310-john-mcginty/</link><pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/2014/03/19/john-patrick-mcginty-52-ancestors-%2310-john-mcginty/</guid><description>My maternal grandfather is John Patrick McGinty (b. 24 May 1905, Chicago, IL; d. 01 Nov 1962, Chicago, IL) who was the eldest son of Michael McGinty and Nellie Carolan.
-John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father’s footsteps working as a plumber.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.wheelergenealogy.com/2014/03/19/john-patrick-mcginty-52-ancestors-"/></item><item><title>John Patrick McGinty (52 Ancestors, #10 John McGinty)</title><link>https://www.wheelergenealogy.com/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/</link><pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/</guid><description>My maternal grandfather is John Patrick McGinty (b. 24 May 1905, Chicago, IL; d. 01 Nov 1962, Chicago, IL) who was the eldest son of Michael McGinty and Nellie Carolan.
-John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father’s footsteps working as a plumber.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.wheelergenealogy.com/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/feature.jpg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chicago on Wheeler Genealogy</title>
+    <link>http://localhost:1313/tags/chicago/</link>
+    <description>Recent content in Chicago on Wheeler Genealogy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 19 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/chicago/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>John Patrick McGinty (52 Ancestors, #10 John McGinty)</title>
+      <link>http://localhost:1313/2014/03/19/john-patrick-mcginty-52-ancestors-%2310-john-mcginty/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/19/john-patrick-mcginty-52-ancestors-%2310-john-mcginty/</guid>
+      <description>My maternal grandfather is John Patrick McGinty (b. 24 May 1905, Chicago, IL; d. 01 Nov 1962, Chicago, IL) who was the eldest son of Michael McGinty and Nellie Carolan.
+John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father’s footsteps working as a plumber. </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2014/03/19/john-patrick-mcginty-52-ancestors-" />
+    </item>
+    
+    <item>
+      <title>John Patrick McGinty (52 Ancestors, #10 John McGinty)</title>
+      <link>http://localhost:1313/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/</link>
+      <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/</guid>
+      <description>My maternal grandfather is John Patrick McGinty (b. 24 May 1905, Chicago, IL; d. 01 Nov 1962, Chicago, IL) who was the eldest son of Michael McGinty and Nellie Carolan.
+John attended and graduated from St. Charles Borromeo for middle school in 1913. John graduated high school from St. Patrick Academy in June 1921. Upon graduation from high school, John followed in his father’s footsteps working as a plumber. </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2014/03/18/john-patrick-mcginty-52-ancestors-10-john-mcginty/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
