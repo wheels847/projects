@@ -43,3 +43,6 @@ theme = "blowfish"
     name = "Contact"
     pageRef = "/contact/"
     weight = 40
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
