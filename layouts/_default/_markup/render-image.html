@@ -1,0 +1,19 @@
+{{- $dest := .Destination -}}
+{{- $isRemote := or (hasPrefix $dest "http://") (hasPrefix $dest "https://") -}}
+
+{{- if $isRemote -}}
+  <img src="{{ $dest | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}>
+{{- else -}}
+  {{- $clean := replaceRE "\\?.*$" "" $dest -}}  {{/* strip ?w=... */}}
+  {{- $res := .Page.Resources.GetMatch $clean -}}
+  {{- if not $res -}}
+    {{- $res = .Page.Resources.GetMatch (printf "**/%s" (path.Base $clean)) -}}
+  {{- end -}}
+
+  {{- $src := $clean -}}
+  {{- if $res -}}
+    {{- $src = $res.RelPermalink -}}
+  {{- end -}}
+
+  <img src="{{ $src | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}>
+{{- end -}}
