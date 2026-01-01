@@ -1,0 +1,4 @@
+baseURL = "https://www.wheelergenealogy.com/"
+languageCode = "en-us"
+title = "Wheeler Genealogy"
+theme = "blowfish"
