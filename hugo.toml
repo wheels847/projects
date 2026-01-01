@@ -4,13 +4,27 @@ title = "Wheeler Genealogy"
 theme = "blowfish"
 
 [params]
-  mainSections = ["stories"]
+  mainSections = ["posts"]
+
+  [markup.goldmark.renderer]
+  unsafe = true
+
+  [permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+
 
 [menu]
   [[menu.main]]
     name = "Home"
     pageRef = "/"
     weight = 10
+
+  [[menu.main]]
+    name = "Posts"
+    pageRef = "/posts/"
+    weight = 15
+
 
   [[menu.main]]
     name = "Stories"
