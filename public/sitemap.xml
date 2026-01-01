@@ -165,6 +165,9 @@
     <loc>http://localhost:1313/contact/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/search/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/stories/</loc>
   </url>
   <url>
