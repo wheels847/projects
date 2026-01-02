@@ -9,6 +9,9 @@ summary: "A quick note on the Wheeler crest associated with Bedfordshire, why we
 ## Why this post exists
 You may notice a crest in the site header. My Wheeler line traces to Bedfordshire, and it’s believed this coat of arms is associated with that line. I’m using it as a visual identity mark for the project while continuing to document the proof trail.
 
+## The crest image
+![Wheeler crest](wheeler-crest.png)
+
 ## A note on heraldry
 Traditionally, coats of arms are granted to individuals and inherited under specific rules, not assigned broadly to surnames. So this is best treated as a working hypothesis until the documentation is fully nailed down.
 
@@ -35,8 +38,6 @@ For your ancestor John Wheeler of Cranfield, who lived during the mid-1500s, thi
 
 While John Wheeler was a yeoman (a high-status farmer), the adoption of these arms by his descendants—including the branch that settled in America—connected the family to a "gentle" status. It transformed an occupational name (Wheel-maker) into a noble identity (Protectors of the Faith).
 
-## The crest image
-![Wheeler crest](wheeler-crest.png)
 
 ## What I’m looking to confirm
 - Which Wheeler individual the arms were granted to (or first recorded with)
