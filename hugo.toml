@@ -6,12 +6,21 @@ theme = "blowfish"
 [params]
   mainSections = ["posts"]
   enableSearch = true
+  disableTextInHeader = true
 
   [markup.goldmark.renderer]
   unsafe = true
 
   [permalinks]
   posts = "/:year/:month/:day/:slug/"
+  defaultContentLanguage = "en"
+
+[languages.en]
+  languageCode = "en-us"
+  title = "Wheeler Genealogy"
+
+[languages.en.params]
+  logo = "img/wheeler-crest.png"
 
 [params.header]
   layout = "fixed-fill-blur"
