@@ -3,12 +3,14 @@ title: "About"
 description: "What this site is, what I’m researching, and how to connect the dots."
 ---
 
-<img src="headshot-600.jpg"
-     srcset="headshot-1200.jpg 2x"
+<img src="headshot-about-600.jpg"
+     srcset="headshot-about-1200.jpg 2x"
      alt="Bill Wheeler"
      style="max-width:220px; height:auto; border-radius:14px; float:right; margin:0 0 12px 18px;">
 
 Wheeler Genealogy is my personal research hub for documenting the Wheeler family story through **records, photos, and narrative write-ups**. It’s part archive, part notebook, and part “public-facing summary” of what I’ve proven, what I’m still testing, and what I’ve learned along the way.
+
+<div style="clear:both;"></div>    
 
 ## What you’ll find here
 - **Stories**: narrative write-ups that bring people and places to life
