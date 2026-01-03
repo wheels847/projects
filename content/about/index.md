@@ -4,7 +4,7 @@ description: "What this site is, what I’m researching, and how to connect the 
 ---
 
 <img src="headshot-about-600.jpg"
-     srcset="headshot-about-1200.jpg 2x"
+     srcset="headshot-about-1200.jpg"
      alt="Bill Wheeler"
      style="max-width:220px; height:auto; border-radius:14px; float:right; margin:0 0 12px 18px;">
 
