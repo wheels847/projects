@@ -1,0 +1,23 @@
+{
+  "globalHeaders": {
+    "X-WG-SWA-Config": "true"
+  },
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/assets/*",
+      "/*.xml",
+      "/*.json",
+      "/robots.txt",
+      "/sitemap.xml",
+      "/index.json",
+      "/**/*.jpg",
+      "/**/*.jpeg",
+      "/**/*.png",
+      "/**/*.webp",
+      "/**/*.gif",
+      "/**/*.svg",
+      "/**/*.pdf"
+    ]
+  }
+}
