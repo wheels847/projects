@@ -8,6 +8,10 @@ If you have corrections, family photos, documents, or record leads, I’d love t
 ## Email
 **Bill Wheeler**  
 📧 **[bill@wheelergeealogy.com](mailto:bill@wheelergeealogy.com)**
+## Elsewhere
+- X: https://x.com/wheels847
+- LinkedIn: https://www.linkedin.com/in/wheels/
+
 
 ## What to include (so I can help fast)
 - Names involved (include maiden names if known)
@@ -28,7 +32,4 @@ I’m also active with the **McHenry County Illinois Genealogical Society (MCIGS
 - I’m happy to credit contributors if you want to be acknowledged.
 - If you prefer privacy, tell me what you’re comfortable sharing publicly.
 
-## Elsewhere
-- X: https://x.com/wheels847
-- LinkedIn: https://www.linkedin.com/in/wheels/
 
