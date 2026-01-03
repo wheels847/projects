@@ -88,5 +88,10 @@ theme = "blowfish"
     pageRef = "/contact/"
     weight = 40
 
+  [[menu.main]]
+     name = "Citations"
+     pageRef = "/citations/"
+     weight = 60
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
