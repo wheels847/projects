@@ -7,11 +7,19 @@
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/stories/wheeler-bedfordshire-to-new-england/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/places/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/stories/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -190,9 +198,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/start-here/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/stories/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/stories/first-story/</loc>
