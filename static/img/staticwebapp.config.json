@@ -1,4 +1,7 @@
 {
+  "globalHeaders": {
+    "X-WG-SWA-Config": "true"
+  },
   "navigationFallback": {
     "rewrite": "/index.html",
     "exclude": [
