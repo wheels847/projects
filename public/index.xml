@@ -10,6 +10,19 @@
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+Wheeler Genealogy is my personal research hub for documenting the Wheeler family story through records, photos, and narrative write-ups. It’s part archive, part notebook, and part “public-facing summary” of what I’ve proven, what I’m still testing, and what I’ve learned along the way.
+What you’ll find here # Stories: narrative write-ups that bring people and places to life Posts: research notes, document deep-dives, and working theories (with sources) Images & artifacts: photos, scans, and “why this record matters” context Surnames & families # This site is centered on the Wheeler family, with frequent research into connected lines and collateral relatives. Some recurring surnames you’ll see include:
+</description>
+      
+    </item>
+    
+    <item>
       <title>The Wheeler Crest (Bedfordshire): What We Know and What We’re Still Confirming</title>
       <link>http://localhost:1313/2026/01/01/the-wheeler-crest-bedfordshire-what-we-know-and-what-were-still-confirming/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
@@ -439,19 +452,6 @@ My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20
       <description>Wheeler Genealogy is a blog about the Wheeler and McGinty ancestors and families. We will look at the history of the lines and where the families come from.
 About the author
 My name is William M(cGinty) Wheeler and I have been doing genealogy for over 20 years. I am currently active in the SAR (Sons of the American Revolution), MCIGS (McHenry County Illinois Genealogy Society) and the BOMC (Baronial Order of the Magna Carta). Most of my ancestry in focused n New England, Pennsylvania and the Midwest.
-</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>
-Wheeler Genealogy is my personal research hub for documenting the Wheeler family story through records, photos, and narrative write-ups. It’s part archive, part notebook, and part “public-facing summary” of what I’ve proven, what I’m still testing, and what I’ve learned along the way.
-What you’ll find here # Stories: narrative write-ups that bring people and places to life Posts: research notes, document deep-dives, and working theories (with sources) Images & artifacts: photos, scans, and “why this record matters” context Surnames & families # This site is centered on the Wheeler family, with frequent research into connected lines and collateral relatives. Some recurring surnames you’ll see include:
 </description>
       
     </item>

@@ -1,6 +1,9 @@
 ---
 title: "About"
 description: "What this site is, what I’m researching, and how to connect the dots."
+date: 2026-01-01
+showDate: false
+showReadingTime: false
 ---
 
 <img src="headshot-about-600.jpg"
