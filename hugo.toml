@@ -38,11 +38,8 @@ theme = "blowfish"
   disableHeroImageFilter = false
 
 [menu]
-  [[menu.main]]
-    name = "Start Here"
-    pageRef = "/start-here/"
-    weight = 12
- 
+  [menu]
+
   [[menu.main]]
     name = "Home"
     pageRef = "/"
@@ -51,47 +48,64 @@ theme = "blowfish"
   [[menu.main]]
     name = "Browse"
     pageRef = "/browse/"
-    weight = 11
-
-  [[menu.main]]
-    name = "Surnames"
-    pageRef = "/surnames/"
-    weight = 13
-
-  [[menu.main]]
-    name = "Places"
-    pageRef = "/places/"
-    weight = 14
+    weight = 20
 
   [[menu.main]]
     name = "Posts"
     pageRef = "/posts/"
-    weight = 15
-
-  [[menu.main]]
-    name = "Series"
-    pageRef = "/series/"
-    weight = 16
+    parent = "Browse"
+    weight = 21
 
   [[menu.main]]
     name = "Stories"
     pageRef = "/stories/"
-    weight = 20
+    parent = "Browse"
+    weight = 22
+
+  [[menu.main]]
+    name = "Series"
+    pageRef = "/series/"
+    parent = "Browse"
+    weight = 23
+
+  [[menu.main]]
+    name = "Surnames"
+    pageRef = "/surnames/"
+    parent = "Browse"
+    weight = 24
+
+  [[menu.main]]
+    name = "Places"
+    pageRef = "/places/"
+    parent = "Browse"
+    weight = 25
+
+  [[menu.main]]
+    name = "Tags"
+    pageRef = "/tags/"
+    parent = "Browse"
+    weight = 26
+
+  [[menu.main]]
+    name = "Search"
+    pageRef = "/search/"
+    parent = "Browse"
+    weight = 27
+
+  [[menu.main]]
+    name = "Start Here"
+    pageRef = "/start-here/"
+    weight = 30
 
   [[menu.main]]
     name = "About"
     pageRef = "/about/"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     name = "Contact"
     pageRef = "/contact/"
-    weight = 40
-
-  [[menu.main]]
-     name = "Citations"
-     pageRef = "/citations/"
-     weight = 60
+    weight = 50
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
