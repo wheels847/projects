@@ -49,6 +49,11 @@ theme = "blowfish"
     weight = 10
 
   [[menu.main]]
+    name = "Browse"
+    pageRef = "/browse/"
+    weight = 11
+
+  [[menu.main]]
     name = "Surnames"
     pageRef = "/surnames/"
     weight = 13
@@ -58,12 +63,15 @@ theme = "blowfish"
     pageRef = "/places/"
     weight = 14
 
-
   [[menu.main]]
     name = "Posts"
     pageRef = "/posts/"
     weight = 15
 
+  [[menu.main]]
+    name = "Series"
+    pageRef = "/series/"
+    weight = 16
 
   [[menu.main]]
     name = "Stories"

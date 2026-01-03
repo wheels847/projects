@@ -10,6 +10,17 @@
     <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Browse</title>
+      <link>http://localhost:1313/browse/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/browse/</guid>
+      <description>Pick a path:
+By family name # Surnames: /surnames/ By location # Places: /places/ By series # Series: /series/ 52 Ancestors: /tags/52-ancestors/ By tags (everything) # All tags: /tags/ Jump straight to it # Search: /search/ Newest posts: /posts/ </description>
+      
+    </item>
+    
+    <item>
       <title>Places</title>
       <link>http://localhost:1313/places/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
@@ -17,6 +28,19 @@
       <guid>http://localhost:1313/places/</guid>
       <description>This page is a curated entry point into the archive by place. Posts often connect multiple states over time (migration, marriage, military service, work, etc.), so browsing by place is a good way to find clusters.
 Primary research hubs # Illinois → /tags/illinois/ Indiana → /tags/indiana/ Ohio → /tags/ohio/ Pennsylvania → /tags/pennsylvania/ Massachusetts → /tags/massachusetts/ Vermont → /tags/vermont/ Connecticut → /tags/connecticut/ Tips for place-based searching # Try both the town and the county (records are often filed at the county level). Search with older place names/abbreviations (especially in 1800s documents). Combine place + surname for precision. Search: /search/
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>http://localhost:1313/series/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/</guid>
+      <description>This page groups posts into series—useful when you want a guided path rather than browsing by date.
+52 Ancestors # A continuing series focused on individual ancestors, the records behind them, and what those records actually prove.
+View the series: /tags/52-ancestors/ Research Notes # If you prefer “show me the documents,” the Posts section is the running notebook.
 </description>
       
     </item>
