@@ -4,7 +4,9 @@ date: 2016-11-19
 slug: "its-been-too-long"
 aliases:
   - "/2016/11/19/its-been-too-long.../"
+draft: false
 ---
+
 
 
 Yes, it has been too long.  Time seems to be get away from us.  Genealogy filing stacks up which is what led to this post.  I've had some family photos that needed scanning such as the the photo below.
