@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bedfordshire on Wheeler Genealogy</title><link>https://www.wheelergenealogy.com/tags/bedfordshire/</link><description>Recent content in Bedfordshire on Wheeler Genealogy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.wheelergenealogy.com/tags/bedfordshire/index.xml" rel="self" type="application/rss+xml"/><item><title>From Cranfield, Bedfordshire to New England: A Wheeler Family Story</title><link>https://www.wheelergenealogy.com/stories/wheeler-bedfordshire-to-new-england/</link><pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/stories/wheeler-bedfordshire-to-new-england/</guid><description>A Bedfordshire Wheeler family appears in early New England records, planting roots in Connecticut and Massachusetts through the 1600s.</description></item><item><title>The Wheeler Crest (Bedfordshire): What We Know and What We’re Still Confirming</title><link>https://www.wheelergenealogy.com/2026/01/01/the-wheeler-crest-bedfordshire-what-we-know-and-what-were-still-confirming/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.wheelergenealogy.com/2026/01/01/the-wheeler-crest-bedfordshire-what-we-know-and-what-were-still-confirming/</guid><description>A quick note on the Wheeler crest associated with Bedfordshire, why we’re using it on the site, and the evidence questions still open.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bedfordshire on Wheeler Genealogy</title>
+    <link>http://localhost:1313/tags/bedfordshire/</link>
+    <description>Recent content in Bedfordshire on Wheeler Genealogy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bedfordshire/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>From Cranfield, Bedfordshire to New England: A Wheeler Family Story</title>
+      <link>http://localhost:1313/stories/wheeler-bedfordshire-to-new-england/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stories/wheeler-bedfordshire-to-new-england/</guid>
+      <description>A Bedfordshire Wheeler family appears in early New England records, planting roots in Connecticut and Massachusetts through the 1600s.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Wheeler Crest (Bedfordshire): What We Know and What We’re Still Confirming</title>
+      <link>http://localhost:1313/2026/01/01/the-wheeler-crest-bedfordshire-what-we-know-and-what-were-still-confirming/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2026/01/01/the-wheeler-crest-bedfordshire-what-we-know-and-what-were-still-confirming/</guid>
+      <description>A quick note on the Wheeler crest associated with Bedfordshire, why we’re using it on the site, and the evidence questions still open.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
