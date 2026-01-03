@@ -1,9 +1,9 @@
 ---
-title: "It's been too long..."
+title: "It's been too long"
 date: 2016-11-19
 slug: "its-been-too-long"
 aliases:
-  - "/2016/11/19/its-been-too-long.../"
+  - "/2016/11/19/its-been-too-long/"
 draft: false
 ---
 
