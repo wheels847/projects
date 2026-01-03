@@ -10,6 +10,9 @@ Welcome! This site is a living archive of the Wheeler family story—built from 
 - **Read narrative write-ups:** [Stories](/stories/)
 - **Search surnames & places:** [Search](/search/)
 - **Learn what this project is:** [About](/about/)
+- **Browse by family name:** [Surnames](/surnames/)
+- **Browse by location:** [Places](/places/)
+
 
 ---
 

@@ -7,7 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Places</title>
+      <link>http://localhost:1313/places/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/places/</guid>
+      <description>This page is a curated entry point into the archive by place. Posts often connect multiple states over time (migration, marriage, military service, work, etc.), so browsing by place is a good way to find clusters.
+Primary research hubs # Illinois → /tags/illinois/ Indiana → /tags/indiana/ Ohio → /tags/ohio/ Pennsylvania → /tags/pennsylvania/ Massachusetts → /tags/massachusetts/ Vermont → /tags/vermont/ Connecticut → /tags/connecticut/ Tips for place-based searching # Try both the town and the county (records are often filed at the county level). Search with older place names/abbreviations (especially in 1800s documents). Combine place + surname for precision. Search: /search/
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Surnames</title>
+      <link>http://localhost:1313/surnames/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/surnames/</guid>
+      <description>This page is a curated entry point into the archive by surname. Many posts include spelling variants, collateral relatives, and “same-name” puzzles—so if you don’t see a name here, try Search.
+Core families # Wheeler → /tags/wheeler/ Tuttle → /tags/tuttle/ Beasecker / Basecker → /tags/beasecker/ Bowman → /tags/bowman/ Brown / Brower → /tags/brown/ Common research notes # Spelling variants # Older records and indexes often vary spelling (and sometimes handwriting makes it worse). When a spelling variant is likely the same family, I treat it as a single research thread and note the variant in the write-up.
+</description>
+      
+    </item>
     
     <item>
       <title>About</title>
@@ -477,7 +501,7 @@ What to include (so I can help fast) # Names involved (include maiden names if k
       
       <guid>http://localhost:1313/start-here/</guid>
       <description>Welcome! This site is a living archive of the Wheeler family story—built from records, photos, and write-ups. If you’re new here, this page will point you to the best on-ramps.
-Quick paths # Browse recent research: Posts Read narrative write-ups: Stories Search surnames & places: Search Learn what this project is: About Core families & recurring surnames # This site centers on the Wheeler family, with frequent research into connected and collateral lines:
+Quick paths # Browse recent research: Posts Read narrative write-ups: Stories Search surnames & places: Search Learn what this project is: About Browse by family name: Surnames Browse by location: Places Core families & recurring surnames # This site centers on the Wheeler family, with frequent research into connected and collateral lines:
 </description>
       
     </item>
