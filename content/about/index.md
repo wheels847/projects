@@ -11,6 +11,10 @@ showReadingTime: false
      alt="Bill Wheeler"
      style="max-width:220px; height:auto; border-radius:14px; float:right; margin:0 0 12px 18px;">
 
+## Find me online
+- X: https://x.com/wheels847
+- LinkedIn: https://www.linkedin.com/in/wheels/
+
 Wheeler Genealogy is my personal research hub for documenting the Wheeler family story through **records, photos, and narrative write-ups**. It’s part archive, part notebook, and part “public-facing summary” of what I’ve proven, what I’m still testing, and what I’ve learned along the way.
 
 <div style="clear:both;"></div>    

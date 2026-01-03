@@ -27,3 +27,8 @@ I’m also active with the **McHenry County Illinois Genealogical Society (MCIGS
 ## Notes
 - I’m happy to credit contributors if you want to be acknowledged.
 - If you prefer privacy, tell me what you’re comfortable sharing publicly.
+
+## Elsewhere
+- X: https://x.com/wheels847
+- LinkedIn: https://www.linkedin.com/in/wheels/
+
