@@ -3,11 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/stories/2026/01/carra-inez-tuttle-wheeler/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/stories/2026/01/a-o-s-tuttle-store/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/stories/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/01/03/what-was-a.-o.-s.-tuttle-a-research-note-on-the-cavendish-store-and-holyoke-dry-goods/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/browse/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/stories/wheeler-bedfordshire-to-new-england/</loc>
+    <loc>http://localhost:1313/stories/2026/01/wheeler-bedfordshire-to-new-england/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -23,23 +47,11 @@
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/stories/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/surnames/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   <url>
