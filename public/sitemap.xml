@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/2026/01/04/finally-a-wheeler/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/stories/2026/01/carra-inez-tuttle-wheeler/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url>
@@ -15,19 +27,11 @@
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/stories/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/2026/01/03/what-was-a.-o.-s.-tuttle-a-research-note-on-the-cavendish-store-and-holyoke-dry-goods/</loc>
-    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url>
   <url>
