@@ -7,12 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 08:00:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Weekly Story</title>
+      <link>http://localhost:1313/categories/weekly-story/</link>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/categories/weekly-story/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wheeler Branch</title>
+      <link>http://localhost:1313/categories/wheeler-branch/</link>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/categories/wheeler-branch/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Genealogy</title>
       <link>http://localhost:1313/categories/genealogy/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/genealogy/</guid>
       <description></description>
