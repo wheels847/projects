@@ -17,6 +17,7 @@ posts = "/:year/:month/:day/:slug/"
 mainSections = ["posts"]
 enableSearch = true
 disableTextInHeader = true
+customCSS = ["css/custom.css"]
 
 [params.header]
 layout = "fixed-fill-blur"

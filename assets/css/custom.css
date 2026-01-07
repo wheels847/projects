@@ -1,0 +1,12 @@
+/* Wider reading column for posts/pages */
+main .max-w-prose,
+main .prose,
+main .article-content {
+  max-width: 90ch !important;     /* default is ~65ch */
+}
+
+/* Optional: let the overall container breathe more on large screens */
+main .max-w-7xl {
+  max-width: 1400px !important;
+}
+ 
