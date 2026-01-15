@@ -7,7 +7,8 @@ If you have corrections, family photos, documents, or record leads, I’d love t
 
 ## Email
 **Bill Wheeler**  
-📧 **[bill@wheelergeealogy.com](mailto:bill@wheelergeealogy.com)**
+📧 **[bill@wheelergenealogy.com](mailto:bill@wheelergenealogy.com)**
+
 ## Elsewhere
 - X: https://x.com/wheels847
 - LinkedIn: https://www.linkedin.com/in/wheels/
