@@ -28,6 +28,10 @@ This post is my attempt to put the facts in one place and invite help from anyon
 - [Target questions](#what-im-trying-to-answer-the-target-questions)
 - [Contact](#contact)
 
+### Explore related research
+- Browse all [Irish genealogy investigations](/tags/irish-genealogy/)
+- See additional [Carolan family notes](/tags/carolan/)
+
 ### Key facts at a glance
 - Julia’s surname appears as both **McConnell** and **McConnon** across records.
 - No documented parents yet—marriage and death entries remain elusive.
