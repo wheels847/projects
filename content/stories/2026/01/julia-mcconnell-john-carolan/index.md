@@ -28,6 +28,12 @@ This post is my attempt to put the facts in one place and invite help from anyon
 - [Target questions](#what-im-trying-to-answer-the-target-questions)
 - [Contact](#contact)
 
+### Key facts at a glance
+- Julia’s surname appears as both **McConnell** and **McConnon** across records.
+- No documented parents yet—marriage and death entries remain elusive.
+- Searches have focused on Minnesota, Iowa, and Irish indexes under variant spellings.
+- Help needed: obituaries, church marriages, certificates, or family recollections.
+
 ---
 
 ## The couple: John Carolan and Julia (McConnell / McConnon)
