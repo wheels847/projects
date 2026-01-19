@@ -17,6 +17,8 @@ Most family references call her **Julia McConnell**. But John’s obituary names
 
 This post is my attempt to put the facts in one place and invite help from anyone who might be connected to this line.
 
+> ⏱️ **Estimated reading time:** 7 minutes
+
 > Looking to share a lead right away? [Jump to the contact section](#contact).
 
 ### Quick navigation
