@@ -112,7 +112,7 @@ Even a small clue—an Irish place name, a sibling, a witness—can be enough to
 ## Contact
 If you have anything that might connect to this line, please contact me:
 
-- **Email:** bill@wheelergeealogy.com  
+- **Email:** [bill@wheelergeealogy.com](mailto:bill@wheelergeealogy.com)  
 - Or use the [Contact page](/contact/)
 
 If you’d like, I’m also happy to share the working timeline and the surnames/places I’ve already tested so you don’t duplicate effort.
