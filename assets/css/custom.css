@@ -1,12 +1,13 @@
-/* Wider reading column for posts/pages */
-main .max-w-prose,
-main .prose,
-main .article-content {
-  max-width: 90ch !important;     /* default is ~65ch */
-}
+/* Wider reading column for posts/pages (large screens only) */
+@media (min-width: 1024px) {
+  main .max-w-prose,
+  main .prose,
+  main .article-content {
+    max-width: 90ch !important;     /* default is ~65ch */
+  }
 
-/* Optional: let the overall container breathe more on large screens */
-main .max-w-7xl {
-  max-width: 1400px !important;
+  /* Let the overall container breathe more on large screens */
+  main .max-w-7xl {
+    max-width: 1400px !important;
+  }
 }
- 
