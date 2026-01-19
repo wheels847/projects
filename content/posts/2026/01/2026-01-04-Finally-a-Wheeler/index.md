@@ -1,5 +1,5 @@
 ---
-title: "Finallly A Wheeler"
+title: "Finally A Wheeler"
 date: 2026-01-04
 slug: "finally-a-wheeler"
 categories: ["genealogy"]
