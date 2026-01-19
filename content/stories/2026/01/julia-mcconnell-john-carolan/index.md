@@ -17,7 +17,15 @@ Most family references call her **Julia McConnell**. But John’s obituary names
 
 This post is my attempt to put the facts in one place and invite help from anyone who might be connected to this line.
 
-> ⏱️ **Estimated reading time:** 7 minutes
+---
+
+> **🔍 The Central Question**
+> 
+> Who were the parents of Julia McConnell (or McConnon), wife of John Carolan?
+> 
+> Despite repeated searches across Minnesota, Iowa, and Irish records, no definitive answer has emerged. This post asks for your help.
+
+---
 
 > Looking to share a lead right away? [Jump to the contact section](#contact).
 
