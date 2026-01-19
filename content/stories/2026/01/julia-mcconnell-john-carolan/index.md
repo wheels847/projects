@@ -15,6 +15,17 @@ Most family references call her **Julia McConnell**. But John’s obituary names
 
 This post is my attempt to put the facts in one place and invite help from anyone who might be connected to this line.
 
+> Looking to share a lead right away? [Jump to the contact section](#contact).
+
+### Quick navigation
+- [The couple](#the-couple-john-carolan-and-julia-mcconnell--mcconnon)
+- [The surname puzzle](#the-surname-puzzle-and-why-it-matters)
+- [What I’ve searched](#what-ive-searched-and-what-i-havent-found-yet)
+- [Why I think the answer is still out there](#why-i-think-the-answer-is-still-out-there)
+- [What I’m asking for](#what-im-asking-for-the-bait-part)
+- [Target questions](#what-im-trying-to-answer-the-target-questions)
+- [Contact](#contact)
+
 ---
 
 ## The couple: John Carolan and Julia (McConnell / McConnon)
