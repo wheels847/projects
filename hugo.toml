@@ -13,6 +13,20 @@ unsafe = true
 [permalinks]
 posts = "/:year/:month/:day/:slug/"
 
+# Performance optimizations
+[minify]
+minifyOutput = true
+
+[imaging]
+quality = 85
+resampleFilter = "Lanczos"
+
+[caches]
+[caches.images]
+maxAge = "24h"
+[caches.assets]
+maxAge = "24h"
+
 [params]
 mainSections = ["posts"]
 enableSearch = true

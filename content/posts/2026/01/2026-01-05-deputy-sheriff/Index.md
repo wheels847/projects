@@ -2,7 +2,7 @@
 title: "Wheeler Weekly: The Deputy Sheriff Question (and What I Still Need to Prove)"
 date: 2026-01-05T08:00:00-06:00
 draft: false
-tags: ["Wheeler", "Solomon Wheeler", "New Hampshire", "Revolutionary Era", "Civil Service", "SAR"]
+tags: ["wheeler", "solomon-wheeler", "new-hampshire", "revolutionary-era", "civil-service", "sar"]
 categories: ["Wheeler Branch", "Weekly Story"]
 summary: "Two cataloged legal documents name a Deputy Sheriff Solomon Wheeler during the Revolutionary era. I’ve completed my SAR supplemental application using Solomon’s lineage—now the work is proving the Deputy Sheriff is *my* 4th great grandfather."
 images: ["SolomonFindAGrave.jpg"]

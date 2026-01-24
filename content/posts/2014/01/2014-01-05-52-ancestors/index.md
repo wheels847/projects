@@ -3,8 +3,8 @@ title: "52 Ancestors"
 date: 2014-01-05
 categories: 
   - "genealogy"
-tags: 
-  - "52ancestors"
+tags:
+  - "52-ancestors"
   - "wheeler-genealogy"
 ---
 

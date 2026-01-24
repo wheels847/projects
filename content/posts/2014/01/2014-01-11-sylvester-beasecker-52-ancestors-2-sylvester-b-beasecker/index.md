@@ -4,8 +4,8 @@ date: 2014-01-11
 slug: "sylvester-beasecker-52-ancestors-2-sylvester-b-beasecker"
 categories: 
   - "genealogy"
-tags: 
-  - "52ancestors"
+tags:
+  - "52-ancestors"
   - "beasecker"
   - "mcginty"
   - "wheeler"

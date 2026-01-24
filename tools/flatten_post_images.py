@@ -27,6 +27,7 @@ def main():
 
         # Move images/* up one level
         if images_dir.exists() and images_dir.is_dir():
+            skipped_files = []
             for f in images_dir.iterdir():
                 if not f.is_file():
                     continue
@@ -34,11 +35,17 @@ def main():
                 if not dest.exists():
                     shutil.move(str(f), str(dest))
                     moved_files += 1
+                else:
+                    skipped_files.append(f.name)
+            
             # Remove images dir if empty
             try:
                 images_dir.rmdir()
-            except OSError:
-                pass
+            except OSError as e:
+                if skipped_files:
+                    print(f"⚠️  Warning: Could not remove {images_dir} - contains files: {', '.join(skipped_files)}")
+                else:
+                    print(f"⚠️  Warning: Could not remove {images_dir}: {e}")
 
         # Lookup of files now in the bundle (for fixing extensionless links)
         file_lookup = {p.stem.lower(): p.name for p in bundle.iterdir() if p.is_file()}

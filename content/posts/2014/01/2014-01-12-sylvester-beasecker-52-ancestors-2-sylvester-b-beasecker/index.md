@@ -3,8 +3,8 @@ title: "Sylvester Beasecker (52 Ancestors: #2 Sylvester B. Beasecker)"
 date: 2014-01-12
 categories: 
   - "genealogy"
-tags: 
-  - "52ancestors"
+tags:
+  - "52-ancestors"
   - "beasecker"
   - "mcginty"
   - "wheeler"
