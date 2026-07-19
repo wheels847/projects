@@ -118,6 +118,10 @@ The Morgan warrant is still a magnificent document and now belongs to the fully 
 
 ---
 
+**Update, July 20, 2026.** The search for Solomon's real service succeeded the following day. Town records from Marlborough, Vermont, show Solomon Wheeler elected Collector at the town's first recorded meeting, May 8, 1775, nineteen days after Lexington. The full evidence is in [Nineteen Days After Lexington: Finding Solomon Wheeler's Real Revolution](/2026/07/20/nineteen-days-after-lexington/).
+
+---
+
 *Previous posts in this series:*
 - [Finally A Wheeler](/2026/01/04/finally-a-wheeler/) — January 4, 2026
 - [The Deputy Sheriff Question](/2026/01/05/deputy-sheriff-question/) — January 5, 2026
