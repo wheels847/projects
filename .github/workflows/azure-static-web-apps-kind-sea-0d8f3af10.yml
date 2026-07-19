@@ -25,7 +25,7 @@ jobs:
           hugo-version: '0.154.0'
           extended: true
       - name: Build site
-        run: hugo --minify
+        run: hugo --buildFuture --minify
       - name: List build output
         run: ls -la public/
       - name: Verify search index
