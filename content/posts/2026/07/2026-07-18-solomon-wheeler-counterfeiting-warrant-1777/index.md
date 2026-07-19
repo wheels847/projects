@@ -18,6 +18,10 @@ summary: "The Morgan Library document has arrived. Solomon Wheeler's own handwri
 series: ["Solomon Wheeler"]
 ---
 
+{{< alert "circle-info" >}}
+**Correction, July 19, 2026.** Research completed July 18-19, 2026 has established that the deputy sheriff who signed this warrant return was Solomon Wheeler of Kingston, Rockingham County, NH, not my ancestor Solomon Wheeler of Westmoreland, Cheshire County. The full evidence is in [The Two Solomon Wheelers: How the Warrant in Hand Slipped Away](/2026/07/19/two-solomon-wheelers/). The post below is preserved as originally published.
+{{< /alert >}}
+
 When I wrote about Solomon Wheeler in [January 2026](/2026/01/04/finally-a-wheeler/) and [followed up the next day](/2026/01/05/deputy-sheriff-question/), I was working from catalog descriptions. I had never seen the actual document.
 
 That has changed.
