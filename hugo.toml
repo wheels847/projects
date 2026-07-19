@@ -4,6 +4,11 @@ defaultContentLanguage = "en"
 title = "Wheeler Genealogy"
 theme = "blowfish"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 

@@ -5,6 +5,7 @@ draft: false
 tags: ["wheeler", "solomon-wheeler", "new-hampshire", "revolutionary-era", "civil-service", "sar"]
 categories: ["Wheeler Branch", "Weekly Story"]
 summary: "Two cataloged legal documents name a Deputy Sheriff Solomon Wheeler during the Revolutionary era. I’ve completed my SAR supplemental application using Solomon’s lineage—now the work is proving the Deputy Sheriff is *my* 4th great grandfather."
+series: ["Solomon Wheeler"]
 images: ["SolomonFindAGrave.jpg"]
 ---
 

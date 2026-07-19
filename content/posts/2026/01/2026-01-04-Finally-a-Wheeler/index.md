@@ -14,6 +14,7 @@ tags:
   - westmoreland-new-hampshire
   - canoe-cemetery
 summary: "A long-running Wheeler question: did my 4th great-grandfather Solomon Wheeler support the American Revolution through civil service? New evidence points to civil law enforcement activity in 1777 New Hampshire that may connect to my Solomon."
+series: ["Solomon Wheeler"]
 ---
 
 For years I’ve joked (only half joking) that my tree has “every surname except **Wheeler**” showing up in Revolutionary service.
