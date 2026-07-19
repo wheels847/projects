@@ -14,7 +14,7 @@ tags:
   - civil-service
   - sar
   - dar
-summary: "One day after proving the Rockingham County warrant belonged to another man, a birthplace entry in the Westmoreland town history pointed the search to Vermont. Town Records Vol. I, page 1, from Marlborough, Vermont — dated May 8, 1775, nineteen days after Lexington — shows Solomon Wheeler elected Collector at the town's first recorded meeting."
+summary: "One day after proving the Rockingham County warrant belonged to another man, a birthplace entry in the Westmoreland town history pointed the search to Vermont. Town Records Vol. I, page 1 from Marlborough, Vermont (dated May 8, 1775, nineteen days after Lexington) shows Solomon Wheeler elected Collector at the town's first recorded meeting."
 series: ["Solomon Wheeler"]
 ---
 
